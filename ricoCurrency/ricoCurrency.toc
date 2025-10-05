@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: ricoCurrency
+## Author: Ricowan
+## Notes: Displays all currencies
+## Version: 1.0
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1.lua
+ricoCurrency.lua
